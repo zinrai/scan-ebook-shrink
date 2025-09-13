@@ -51,4 +51,4 @@ The script creates optimized files with the "ebook-" prefix. For example:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
+This project is licensed under the [MIT License](./LICENSE).
